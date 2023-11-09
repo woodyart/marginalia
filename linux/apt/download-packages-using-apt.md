@@ -7,7 +7,7 @@ apt-get install --download-only <packages>
 ls -lha /var/cache/apt/archives/*.deb
 ```
 
-## Method 2. Download packages without dependencise
+## Method 2. Download packages without dependencies
 
 ```bash
 apt download <packages>

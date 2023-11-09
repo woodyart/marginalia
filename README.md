@@ -6,7 +6,7 @@ My notes about things I learned during making tasks
 
 ## SECTIONS
 
-* LINUX
+* [LINUX](#linux)
 
 -------------------------------------------------------------------------------
 
